@@ -115,8 +115,14 @@ Supported Commands
   ➥ #{uniq-id} gpt-interop [...| command and arguments] <-- One or more of these lines are allowed per request each should have a uniq id.
   [GO]
   ```
-  
 
+\n
+➣ Correction: Florida is not a state in russia.
+① Point: Florida isn't a state in russia. I meant to say [...] 
+
+of 
+
+➥ ➣ or  ① ①  ②Correction 2②
 * gpt-interop responses must follow this format:
   ```syntax 
   [interop]

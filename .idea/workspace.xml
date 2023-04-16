@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6c1e4b-a4ae-4e90-87a4-542c3e798ad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Playground/config setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Playground/messaging-protocol.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/alt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/scratch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/distributed-gpt.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/distributed-gpt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/alt.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/alt.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools/prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/prompt.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Elixir Module" />
+      </list>
+    </option>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="false" />
@@ -53,7 +58,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "C:/Github/Jetzy/Select-MVP",
+    "last_opened_file_path": "C:/Github/noizu/artificial_intelligence",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +85,19 @@
       <workItem from="1679917232463" duration="43799000" />
       <workItem from="1680025118413" duration="363000" />
       <workItem from="1680025508988" duration="10104000" />
+      <workItem from="1680199725486" duration="605000" />
+      <workItem from="1680256450049" duration="1368000" />
+      <workItem from="1680490980528" duration="4512000" />
+      <workItem from="1680636494446" duration="5563000" />
+      <workItem from="1680667602088" duration="3635000" />
+      <workItem from="1680913612565" duration="1624000" />
+      <workItem from="1681076112425" duration="18000" />
+      <workItem from="1681076276861" duration="12000" />
+      <workItem from="1681085058080" duration="1082000" />
+      <workItem from="1681175130013" duration="972000" />
+      <workItem from="1681232060123" duration="1834000" />
+      <workItem from="1681545255002" duration="2868000" />
+      <workItem from="1681659900039" duration="2631000" />
     </task>
     <servers />
   </component>
